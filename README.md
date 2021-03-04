@@ -2,7 +2,7 @@
 personal project about data analysis and data engineering :
 
 
- # ![1. SQL Querry Exercise](https://github.com/boxside/SQL-sales-exercise1)
+ # ![1. SQL Query Exercise](https://github.com/boxside/SQL-sales-exercise1)
  
  
   ![SQL](https://github.com/boxside/SQL-sales-exercise1/blob/main/figure/1.png)
