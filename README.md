@@ -72,7 +72,7 @@ personal project about data analysis and data engineering :
    # ![7. Coil Production Yield Analysis](https://github.com/boxside/coil_yield)
  
  
-  ![CRC](https://github.com/boxside/coil_yield/crc.jpg)
+  ![CRC](https://github.com/boxside/coil_yield/blob/main/crc.jpg)
  
  * Cold Rolling Mill is the one of process in Steel Manufacturing, that produced Cold Rolled Coil.
  * there are 1303 Coils that acceptable to send to customer, but there are 154 coil that below threshold.
