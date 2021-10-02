@@ -69,4 +69,17 @@ personal project about data analysis and data engineering :
  
   ![Airbnb](https://github.com/boxside/Airbnb_Data_Analysis/blob/main/output_15_0.png)
  
+   # ![7. Coil Production Yield Analysis](https://github.com/boxside/coil_yield)
+ 
+ 
+  ![CRC](https://github.com/boxside/coil_yield/crc.jpg)
+ 
+ * Cold Rolling Mill is the one of process in Steel Manufacturing, that produced Cold Rolled Coil.
+ * there are 1303 Coils that acceptable to send to customer, but there are 154 coil that below threshold.
+ * lower yield caused by scrap or byproduct that producted from every process line
+ * 6HI Line have more production rate  66.9% and higher yield 0.906 than BLS from total coil that below threshold
+ * lower yield mostly occur for coil with thickness <0.250 and width <930mm for every cold rolling mill, its result approx  0.92%
+ * BLS can be optional line for distribution coil with target thickness <0.250mm to maximize time efficient up to 30%
+ * mostly defect occur is edge defect that make trimming lose in finishing line higher.
+
   
